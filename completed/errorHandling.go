@@ -17,7 +17,7 @@ func testFunc(n int) {
 		fmt.Printf("Error: %s\n", err)
 		return
 	}
-	fmt.Printf("num1=%#v", num1)
+	fmt.Printf("num1=%#v\n", num1)
 }
 
 func main() {
